@@ -1,0 +1,3 @@
+for each route?
+    for every hour?
+        average time between two stops
